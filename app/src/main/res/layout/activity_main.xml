@@ -11,79 +11,22 @@
     android:background="@drawable/b1"
     tools:context=".MainActivity">
 
+
+
+
     <AbsoluteLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="horizontal">
 
 
-        <TextView
-            android:id="@+id/textout1"
-            android:layout_width="401dp"
-            android:layout_height="36dp"
-            android:layout_x="-7dp"
-            android:layout_y="560dp"
-            android:text="MemberShip today only 7.99$"
-            android:textAlignment="center"
-            android:textColor="@color/white"
-            android:textSize="16dp"
-            android:textStyle="bold" />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/framelayout"/>
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_x="141dp"
-            android:layout_y="595dp"
-            android:backgroundTint="@color/red"
-            android:text="SUBSCRIBE" />
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_x="145dp"
-            android:layout_y="153dp"
-            android:backgroundTint="@color/red"
-            android:text="Enter" />
 
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="217dp"
-            android:layout_height="100dp"
-            android:layout_x="13dp"
-            android:layout_y="33dp"
-            android:text="Professional Trainer"
-            android:textColor="@color/white"
-            android:textSize="30dp" />
-
-        <EditText
-            android:id="@+id/editTextTextEmailAddress"
-            android:layout_width="220dp"
-            android:layout_height="44dp"
-            android:layout_x="13dp"
-            android:layout_y="106dp"
-            android:background="#ffffff"
-            android:ems="10"
-            android:hint="  Please enter your email"
-            android:inputType="textEmailAddress"
-            android:textStyle="bold" />
-
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="225dp"
-            android:layout_height="288dp"
-            android:layout_x="3dp"
-            android:layout_y="223dp"
-            app:srcCompat="@drawable/back" />
-
-        <ImageView
-            android:id="@+id/imageView2"
-            android:layout_width="234dp"
-            android:layout_height="335dp"
-            android:layout_x="184dp"
-            android:layout_y="170dp"
-            app:srcCompat="@drawable/a1" />
 
 
 

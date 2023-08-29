@@ -4,44 +4,54 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
     <item
         android:id="@+id/nav_Workout"
-        android:icon="@drawable/ic_home"
-        android:title="WorkOut"/>
+        android:icon="@drawable/dumbbellpng"
+        android:title="Workout"/>
+
     <item
-        android:id="@+id/nav_Contect"
-        android:icon="@drawable/ic_message"
-        android:title="Contect Us"/>
-    <item
-        android:id="@+id/nav_setting"
-        android:icon="@drawable/ic_setting"
-        android:title="Setting"/>
+        android:id="@+id/nav_Diet"
+        android:icon="@drawable/diet"
+        android:title="Diet"/>
+    </group>
 
     <item  android:title="Profile">
 
         <menu>
 
-
+        <group>
             <item
                 android:id="@+id/nav_login"
 
                 android:icon="@drawable/ic_login"
                 android:title="Login"/>
+        </group>
         </menu>
+
     </item>
 
     <item android:title="Communicate">
 
         <menu>
+            <group>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_share"
-                android:title="Share"/>
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/phone"
+                android:title="Contact us"/>
             <item
-                android:id="@+id/nav_review"
-                android:icon="@drawable/ic_review"
-                android:title="Review"/>
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+
+                android:title="About us"/>
+            </group>
         </menu>
+
     </item>
 
 </menu>

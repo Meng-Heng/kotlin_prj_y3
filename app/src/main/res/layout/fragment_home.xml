@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation= "vertical"
+    android:background="@drawable/b1"
+    tools:context=".MainActivity">
+
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/textout1"
+            android:layout_width="401dp"
+            android:layout_height="36dp"
+            android:layout_x="-7dp"
+            android:layout_y="560dp"
+            android:text="MemberShip today only 7.99$"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="141dp"
+            android:layout_y="595dp"
+            android:backgroundTint="@color/red"
+            android:text="SUBSCRIBE" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="145dp"
+            android:layout_y="153dp"
+            android:backgroundTint="@color/red"
+            android:text="Enter" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="217dp"
+            android:layout_height="100dp"
+            android:layout_x="13dp"
+            android:layout_y="26dp"
+            android:text="Professional Trainer"
+            android:textColor="@color/white"
+            android:textSize="30dp" />
+
+        <EditText
+            android:id="@+id/editTextTextEmailAddress"
+            android:layout_width="220dp"
+            android:layout_height="44dp"
+            android:layout_x="13dp"
+            android:layout_y="106dp"
+            android:background="#ffffff"
+            android:ems="10"
+            android:hint="  Please enter your email"
+            android:inputType="textEmailAddress"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="134dp"
+            android:layout_height="145dp"
+            android:layout_x="-22dp"
+            android:layout_y="217dp"
+            app:srcCompat="@drawable/back" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="234dp"
+            android:layout_height="209dp"
+            android:layout_x="72dp"
+            android:layout_y="191dp"
+            app:srcCompat="@drawable/a1" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="179dp"
+            android:layout_height="335dp"
+            android:layout_x="248dp"
+            android:layout_y="211dp"
+            app:srcCompat="@drawable/fit_lady" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="186dp"
+            android:layout_height="240dp"
+            android:layout_x="-7dp"
+            android:layout_y="296dp"
+            app:srcCompat="@drawable/b2" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="121dp"
+            android:layout_height="110dp"
+            android:layout_x="143dp"
+            android:layout_y="356dp"
+            app:srcCompat="@drawable/b" />
+
+
+    </AbsoluteLayout>
+
+
+
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/nav_menu"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+
+
+        />
+
+
+
+
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
+

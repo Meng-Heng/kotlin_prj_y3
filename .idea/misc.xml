@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DesignSurface">
-    <option name="filePathToZoomLevelMap">
-      <map>
-        <entry key="..\:/1__NPIC/Code_Basement/Kotlin_Mobile/Fitness_Optimal_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/drawable/ic_message.xml" value="0.1" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/drawable/ic_setting.xml" value="0.1" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/drawable/ic_share.xml" value="0.1105" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/activity_main.xml" value="0.3032069970845481" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/item_image.xml" value="0.1125" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/nav_header.xml" value="0.2" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/tab_selector.xml" value="0.1125" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/viewpage2.xml" value="0.1" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/layout/viewpager2.xml" value="0.1" />
-        <entry key="..\:/NPIC-SCHOOL/NPIC-Y3 S2/Git/kotlin_prj_y3/app/src/main/res/menu/nav_menu.xml" value="0.1" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
