@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Contact Us"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/textView"
+            tools:layout_editor_absoluteY="16dp"
+            tools:layout_editor_absoluteX="84dp"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textAlignment="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_y="48dp"
+        android:layout_x="0dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+
+            android:text="  How can i contact Support?"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="401dp"
+        android:layout_height="105dp"
+        android:layout_y="74dp"
+        android:layout_x="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@color/white"
+            android:text="  You can submit your request via our Contact form or email us directly at support@madmuscles.com. We work 24/7 and will endeavour to get back to you within 1-2 business days. Please provide the correct email address associated with your MadMuscles account so we can identify you and help you faster. "
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_y="180dp"
+        android:layout_x="-2dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:text="  Meet Our Team."/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="401dp"
+        android:layout_height="85dp"
+        android:layout_y="203dp"
+        android:layout_x="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:text="  We’re fitness enthusiasts trying to create an app that will make you feel great about the concept of working out but especially yourself. We went through months of researching and coding for days on end. And for that, we gathered a super-team:"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="137dp"
+        android:layout_y="292dp"
+        android:layout_x="0dp">
+
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_width="92dp"
+            android:layout_height="104dp"
+            android:src="@drawable/a"
+            />
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="48dp"
+            android:textSize="9sp"
+            android:text="Contact"
+            android:textColor="@color/white"
+            android:layout_below="@+id/imageview"
+            />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageview">
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/persoName"
+                    android:textColor="@color/white"
+                    android:text="Oleg Mykhalevskyi"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lastMessage"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/white"
+                    android:text="  Certified Сrossfit-Level 2 coach with over 10 years of experience in the industry and a king of MadMuscles workouts. Specializes in functional fitness, TRX, Olympic weightlifting, and adaptive training programs."/>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="149dp"
+
+        android:layout_y="432dp"
+        android:layout_x="2dp">
+
+        <ImageView
+            android:id="@+id/imageview1"
+            android:layout_width="94dp"
+            android:layout_height="116dp"
+            android:src="@drawable/b"
+
+            />
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="48dp"
+            android:textSize="9sp"
+            android:text="Contact"
+            android:layout_below="@+id/imageview1"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageview1">
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/persoName1"
+                    android:text="Ievgeniia Dobrynina"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lastMessage1"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/white"
+                    android:text="  Nutrition Guru at MadMuscles and Unimeal. Certified specialist in nutrition psychology, hormones in dietetics, eating disorders, human microbiome, and dietary habits depending on the enterotype."/>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="335dp"
+        android:layout_height="44dp"
+        android:layout_marginLeft="50sp"
+        android:layout_y="643dp" android:layout_x="33dp">
+
+        <ImageView
+            android:layout_width="79dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/fb"
+            />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+        <ImageView
+            android:layout_width="84dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/yt"
+            />
+        <ImageView
+            android:layout_width="82dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/gh"
+            />
+        <ImageView
+            android:layout_width="88dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/wp">
+        </ImageView>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent" android:layout_height="38dp" android:layout_y="591dp"
+        android:layout_x="0dp">
+        <LinearLayout android:layout_width="380dp" android:layout_height="wrap_content"
+            android:textAlignment="center">
+            <TextView android:layout_width="wrap_content" android:layout_height="match_parent"
+                android:text="Conments:" android:textSize="20dp" android:textStyle="bold"
+                android:textColor="@color/white"/>
+
+            <EditText
+                android:layout_width="213dp"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:textColor="@color/black"
+
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="submit"
+                android:textSize="9dp"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</AbsoluteLayout>

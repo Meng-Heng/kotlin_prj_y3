@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_wp.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/wp.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_q.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/q.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_health.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/health.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_b2.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/b2.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_fit_lady.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/fit_lady.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_login.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_login.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_yoga.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/yoga.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_tw.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/tw.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_fitness.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/fitness.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_fit_man.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/fit_man.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/menu_nav_menu.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_message.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_ca.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/ca.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_pasta.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/pasta.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_panha.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/panha.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_yogurt.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/yogurt.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_nav_header.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_about.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/about.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_yt.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/yt.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_b1.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/b1.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_b11.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/b11.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_fragment_diet.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/fragment_diet.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_w1.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/w1.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_chicken.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/chicken.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_fragment_about.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_back.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/back.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_se.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/se.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_a1.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/a1.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_c.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/c.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_contacts_main.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/contacts_main.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ofhealth.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ofhealth.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_who.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/who.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_phone.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/phone.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_home.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_d.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/d.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_w2.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/w2.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_report.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/report.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_a.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/a.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_gym.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/gym.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_fragment_workout.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_cancer_research.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/cancer_research.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_dumbbellpng.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/dumbbellpng.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_b.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/b.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_diet.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/diet.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_setting.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_fragment_contact.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_share.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/layout_fragment_home.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_fb.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/fb.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_review.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_review.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable-v24_veggies.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable-v24/veggies.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_b13.jpg.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/b13.jpg"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_gh.png.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/gh.png"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitness_optimal.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitness_optimal.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
